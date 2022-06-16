@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-973-organic-optoelectronics-spring-2003/4996e80c53ac859880937db089985d40_filmAbs.TXT
+file: /courses/6-973-organic-optoelectronics-spring-2003/4996e80c53ac859880937db089985d40_filmAbs.TXT
 file_type: text/plain
 learning_resource_types:
 - Labs

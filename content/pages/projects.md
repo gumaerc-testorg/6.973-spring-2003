@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
 title: Projects
 uid: d70486f0-ef81-3a25-81b3-c0b5f6bc25d3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The final project aims to challenge and assess your ability to critically evaluate a published article. Indeed, not everything printed is true and you are asked to guide the class through a review of one recent publication. This is an exercise that you will encounter over and over again if choose to pursue a career in science research.
