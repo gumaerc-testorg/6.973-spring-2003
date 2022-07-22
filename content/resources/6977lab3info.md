@@ -5,6 +5,7 @@ file: /courses/6-973-organic-optoelectronics-spring-2003/91dd35d5738e8d4cdd41ef2
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
