@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: cc20026b-3e64-052e-0cfb-3eeeab7ba41c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section provides a detailed list of lecture topics and links to selected lecture notes.
@@ -9,12 +17,12 @@ This section provides a detailed list of lecture topics and links to selected le
 Introduction to 6.973
 ---------------------
 
-Lecture 1. Welcome to 6.973 - Organic Optoelectronics ([PDF]({{< baseurl >}}/resources/1))
+Lecture 1. Welcome to 6.973 - Organic Optoelectronics ({{% resource_link 26f0cace-cda9-4abd-105e-ea142c3bc034 "PDF" %}})
 
 From Molecules to Aggregates
 ----------------------------
 
-Lecture 2. Organic Molecules -- Structure and Nomenclature ([PDF]({{< baseurl >}}/resources/2))
+Lecture 2. Organic Molecules -- Structure and Nomenclature ({{% resource_link e4c5708a-c512-eb89-ca8a-2007cc29b78b "PDF" %}})
 
 *   Determining the Structure of Organic Compounds
 *   Carbon
@@ -52,7 +60,7 @@ Lecture 6. Excited States of Aggregate Films
 *   Excimers
 *   Generation of Excitons
 
-Lecture 7. Excitons - Types, Energy Transfer ([PDF]({{< baseurl >}}/resources/7))
+Lecture 7. Excitons - Types, Energy Transfer ({{% resource_link a21ecb66-b238-10fe-3849-4f233489dbcf "PDF" %}})
 
 *   Wannier Exciton
 *   Charge-transfer Exciton
@@ -60,7 +68,7 @@ Lecture 7. Excitons - Types, Energy Transfer ([PDF]({{< baseurl >}}/resources/7)
 *   Exciton Diffusion
 *   Exciton Energy Transfer (Förster, Dexter)
 
-Lecture 8. Exciton Diffusion ([PDF]({{< baseurl >}}/resources/8))
+Lecture 8. Exciton Diffusion ({{% resource_link d2df286a-cc11-16f3-2062-57d889e02be2 "PDF" %}})
 
 *   Exciton Energy Transfer
 *   Exciton Diffusion
@@ -70,13 +78,13 @@ Lecture 8. Exciton Diffusion ([PDF]({{< baseurl >}}/resources/8))
 Photocurrent, Photodetectors, Solar Cells
 -----------------------------------------
 
-Lecture 9. Photovoltaics and Photodetectors -- Part I ([PDF]({{< baseurl >}}/resources/9))
+Lecture 9. Photovoltaics and Photodetectors -- Part I ({{% resource_link 22fee6e3-9482-5828-a0b8-c612e6c1ea42 "PDF" %}})
 
 *   Photogeneration
 *   Organic Heterojunction Photovoltaic Cell
 *   Organic Multilayer Photodetector
 
-Lecture 10. Photovoltaics and Photodetectors -- Part II ([PDF]({{< baseurl >}}/resources/10))
+Lecture 10. Photovoltaics and Photodetectors -- Part II ({{% resource_link e4a421e5-fab2-3482-14b6-a338e113c5c8 "PDF" %}})
 
 *   Organic Heterojunction Photovoltaic Cell
 *   Organic Multilayer Photodetector
@@ -141,7 +149,7 @@ Lecture 16. Organic LEDs -- Part III
 *   Stacked (SOLED)
 *   Organic LED Displays
 
-Lecture 17. Organic LEDs -- Part IV (Guest lecture by Professor Marc Baldo) ([PDF]({{< baseurl >}}/resources/17))
+Lecture 17. Organic LEDs -- Part IV (Guest lecture by Professor Marc Baldo) ({{% resource_link b951bce9-91d2-4b45-c10c-5824639a3fc4 "PDF" %}})
 
 *   OLED Efficiency
 *   Spin
@@ -157,7 +165,7 @@ Lecture 18. Organic LEDs -- Part V
 *   Time Sequenced OLED Backlights
 *   Flexible OLEDs
 
-Lecture 19. Organic LEDs -- Part VI ([PDF]({{< baseurl >}}/resources/19))
+Lecture 19. Organic LEDs -- Part VI ({{% resource_link 9fcaaaed-b502-56c4-655b-183e746796ec "PDF" %}})
 
 *   Exciton Recombination Region in Organic LEDs
 *   White OLED
@@ -165,13 +173,13 @@ Lecture 19. Organic LEDs -- Part VI ([PDF]({{< baseurl >}}/resources/19))
 *   Solvation Effect
 *   Solid State Solvation
 
-Lecture 20. Organic LEDs -- Part VII ([PDF]({{< baseurl >}}/resources/l20))
+Lecture 20. Organic LEDs -- Part VII ({{% resource_link b83ed98e-859b-2ec7-ed6f-f646b5d22b05 "PDF" %}})
 
 *   Solvation Effect - Review
 *   Solid State Solvation  
      
 
-Lecture 20b. Organic LEDs -- Part VII ([PDF]({{< baseurl >}}/resources/20b))
+Lecture 20b. Organic LEDs -- Part VII ({{% resource_link 40ef53b8-606a-9979-0406-4b5a2d388f61 "PDF" %}})
 
 *   Exciton Dynamics in Disordered Organic Thin Films
 *   Quantum Dot LEDs
