@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-973-organic-optoelectronics-spring-2003/8ee1276e1a8fa109483990e7c396195c_solAbs.TXT
+file_size: 42467
 file_type: text/plain
 learning_resource_types:
 - Labs
