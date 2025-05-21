@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-973-organic-optoelectronics-spring-2003/ea6ad7ec156e69e11ba6025500199778_solPL.TXT
+file: /courses/6-973-organic-optoelectronics-spring-2003/ea6ad7ec156e69e11ba6025500199778_solPL.TXT
 file_size: 25674
 file_type: text/plain
 learning_resource_types:

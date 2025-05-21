@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-973-organic-optoelectronics-spring-2003/b36528dd258ac6a11093212aeec3c7c3_CIE.txt
+file: /courses/6-973-organic-optoelectronics-spring-2003/b36528dd258ac6a11093212aeec3c7c3_CIE.txt
 file_size: 5573
 file_type: text/plain
 learning_resource_types:
