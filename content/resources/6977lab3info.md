@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-973-organic-optoelectronics-spring-2003/91dd35d5738e8d4cdd41ef2428a59df2_6977Lab3Info.pdf
+file: /ol-ocw-studio-app/courses/6-973-organic-optoelectronics-spring-2003/91dd35d5738e8d4cdd41ef2428a59df2_6977Lab3Info.pdf
 file_size: 181402
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
